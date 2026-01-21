@@ -1,0 +1,16 @@
+{
+  "name": "heifer",
+  "version": "1.0.0",
+  "description": "First node project with Boot.dev",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Steven",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.28.6",
+    "@babel/preset-env": "^7.28.6"
+  }
+}
