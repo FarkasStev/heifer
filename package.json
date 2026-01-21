@@ -8,6 +8,7 @@
   },
   "author": "Steven",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "@babel/cli": "^7.28.6",
     "@babel/core": "^7.28.6",
